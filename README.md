@@ -14,7 +14,7 @@ Express
 
 TypeScript
 
-MongoDB (con mongoose)
+MongoDB 
 
 CORS
 
